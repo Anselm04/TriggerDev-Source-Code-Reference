@@ -1,0 +1,230 @@
+{
+  "source": "https://github.com/triggerdotdev/trigger.dev.git",
+  "commit": "2fbd5c7cf4e9c8e19b88e2b72a7133795611e33d",
+  "number_of_original_workflow_files": 37,
+  "original_ci_is_disabled": true,
+  "files": [
+    {
+      "upstream_path": ".github/workflows/base-images.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/base-images.yml",
+      "git_blob": "8ad898339dc1d8da8ea44364f3d96b604963a139",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/changesets-pr.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/changesets-pr.yml",
+      "git_blob": "1f9210192cb528393b910d249f0a16fe1db83f57",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/check-review-md.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/check-review-md.yml",
+      "git_blob": "b9bab33fd7580636b602231aeb54a1e8a14cf075",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/claude-md-audit.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/claude-md-audit.yml",
+      "git_blob": "47738bc5cf413ebd0268d40ad695531cafd9b041",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/claude.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/claude.yml",
+      "git_blob": "486692691f482143d94c4895e4b5613961ed8a19",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/code-quality.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/code-quality.yml",
+      "git_blob": "637c3c990abf9866d082374ac3f63573534da5ef",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/codeql.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/codeql.yml",
+      "git_blob": "d2431fcf6e537390c95f08597dfc3aa11d60062e",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/dispatch-repo-ops-sync.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/dispatch-repo-ops-sync.yml",
+      "git_blob": "50cde0f2f078aa3abe9258a24313abcc56f48928",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/docs.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/docs.yml",
+      "git_blob": "3c0b5cbd670ef0612766765ecc033f27087505d0",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/e2e-webapp-auth-full.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/e2e-webapp-auth-full.yml",
+      "git_blob": "989c33fd1a2f3343023a7b6905e8f22c5f722864",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/e2e-webapp.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/e2e-webapp.yml",
+      "git_blob": "e4a95335f9edb9d13a2b1e16f9dd8b36406301e1",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/e2e.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/e2e.yml",
+      "git_blob": "be6d8e81ddc2137a1c41927bfc2e31e8b784ba91",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/fk-cascade-guard.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/fk-cascade-guard.yml",
+      "git_blob": "48a5a4c367406bd64a9b0225c0a65213ea265eea",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/helm-prerelease.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/helm-prerelease.yml",
+      "git_blob": "27fed26558bde288a3a5533a22cca7181247e7d1",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/migration-guard.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/migration-guard.yml",
+      "git_blob": "6a16b5404cc868406632edd24421f5017e656bb9",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/observability-map.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/observability-map.yml",
+      "git_blob": "1f59071357190ec87f40bc020667dbc34e61aa7b",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/pr_checks.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/pr_checks.yml",
+      "git_blob": "435ab36920db4b2d12bcc0b449a70ccdeea466ed",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/preview-dispatch.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/preview-dispatch.yml",
+      "git_blob": "ac0decfafa8a9c8bc2ad4e35d63aea2615871516",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/preview-packages.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/preview-packages.yml",
+      "git_blob": "b822c72f847e858e4a6382bc8c8626e6f1bf447c",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/publish-docs.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/publish-docs.yml",
+      "git_blob": "887695dca1ec96a9f7ce06a1eed1ea3699bbc33d",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/publish-webapp.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/publish-webapp.yml",
+      "git_blob": "80ff4c2c8073a5b4826c173110e9ca3976660190",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/publish-worker-v4.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/publish-worker-v4.yml",
+      "git_blob": "2f1943fe4787ef4d3aa2db0a0d8f91c0ec767c6a",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/publish.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/publish.yml",
+      "git_blob": "4bbbcb963c17c0b1e22e167430e9ae3e9cb95fa9",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/release-helm.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/release-helm.yml",
+      "git_blob": "2ddc794287ebcaf13b84dcdb1c6592acdc9cd3f2",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/release.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/release.yml",
+      "git_blob": "bf48afb0ccdd9dc1c640ac2a41d2cb2bb38bf832",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/repo-ops-sync-gate.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/repo-ops-sync-gate.yml",
+      "git_blob": "47461239be12f3312d904aaeef6d188be692b6cd",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/runops-guard.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/runops-guard.yml",
+      "git_blob": "080a21e701a4a00b29133beba382857555ffe58e",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/sdk-compat.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/sdk-compat.yml",
+      "git_blob": "2c5a65a5281f0ad58292aa7f1c20682b43410af6",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/trivy-image.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/trivy-image.yml",
+      "git_blob": "07c84fef6389c06f227852dba1b092e36356cc8e",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/typecheck.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/typecheck.yml",
+      "git_blob": "420ffceba3d9444b78872ef5385a7dd13f5ddb3d",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/unit-tests-internal.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/unit-tests-internal.yml",
+      "git_blob": "f26f3c8e7a3674013ec2e01997ffee7bbad3fd40",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/unit-tests-observability-map.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/unit-tests-observability-map.yml",
+      "git_blob": "72b971f973d68bcf139a22b2750de95ea4810c97",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/unit-tests-packages.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/unit-tests-packages.yml",
+      "git_blob": "2a293fb4e9ee59ee84831696aa62dbe7a9face0a",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/unit-tests-webapp.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/unit-tests-webapp.yml",
+      "git_blob": "a51896f542cc4b9951a36010505091bdad1f4bfd",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/unit-tests.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/unit-tests.yml",
+      "git_blob": "96e76279c820576a54b7094e2bea9622a3a60101",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/vouch-check-pr.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/vouch-check-pr.yml",
+      "git_blob": "d2a998cc8d3e0b61ec6263465caef7f7d341d6e4",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/workflow-checks.yml",
+      "reference_path": "upstream-workflow-snapshots/triggerdev/.github/workflows/workflow-checks.yml",
+      "git_blob": "295abcabace6a334a1b035ae210957e006dadfd4",
+      "original_mode": "100644"
+    }
+  ]
+}
