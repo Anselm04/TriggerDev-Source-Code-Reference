@@ -1,0 +1,14 @@
+name: Audit Trigger.dev source against pinned revision
+on:
+  push:
+    paths:
+      - '.github/workflows/audit-source-once.yml'
+permissions:
+  contents: write
+jobs:
+  audit:
+    uses: Anselm04/Macro-source-code-reference-/.github/workflows/reusable-source-audit.yml@main
+    with:
+      upstream_url: https://github.com/triggerdotdev/trigger.dev.git
+      upstream_sha: 2fbd5c7cf4e9c8e19b88e2b72a7133795611e33d
+      audit_slug: triggerdev
